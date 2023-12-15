@@ -1,27 +1,5 @@
 {
-  "movies": [
-    {
-      "id": "1",
-      "Title": "Avatar",
-      "Carrusel": "https://res.cloudinary.com/danimel/image/upload/v1631575264/sprint2/avatar_fhb9o6.jpg",
-      "Year": "2009",
-      "Value": 7.8,
-      "Type": "movie",
-      "Description": "A music-loving kinkajou named Vivo embarks on the journey of a lifetime to fulfill his destiny and deliver a love song for an old friend.",
-      "Trailer": "https://www.youtube.com/embed/6ziBFh3V1aM",
-      "Poster": "https://es.web.img2.acsta.net/c_310_420/pictures/20/06/17/11/47/3296884.jpg"
-    },
-    {
-      "id": "2",
-      "Title": "Titanic",
-      "Year": "1997",
-      "Value": 7.8,
-      "Carrusel": "https://i.blogs.es/4a9cb1/titanic/840_560.jpeg",
-      "Type": "movie",
-      "Description": "A music-loving kinkajou named Vivo embarks on the journey of a lifetime to fulfill his destiny and deliver a love song for an old friend.",
-      "Trailer": "https://www.youtube.com/embed/J1H-k0_0RQ4",
-      "Poster": "https://i.blogs.es/4a9cb1/titanic/840_560.jpeg"
-    },
+  "movies": [   
     {
       "id": "3",
       "Title": "Star Wars: The Force Awakens",
